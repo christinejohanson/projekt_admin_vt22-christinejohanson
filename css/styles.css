@@ -1,0 +1,128 @@
+.container {
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 80%;
+    background-color: #efeae1;
+}
+
+body {
+    background-color: #efeae1;
+}
+/* the different sections */
+.firstone {
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 50%;
+    color: white;
+    background-color: #16753d;
+    padding: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+
+.secondone {
+    margin: 0 auto;
+    width: 80%;
+    padding: 2%;
+    background-color: #e84719;
+    color: white;
+}
+
+.thirdone {
+    margin: 0 auto;
+    width: 80%;
+    color: white;
+    background-color: #16753d;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+/* tabeller bookingtable o foodtable */
+#bookingTable, #foodTable {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+#bookingTable th, #foodTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #e84719;
+    color: white;
+}
+
+#bookingTable td, #foodTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  table {
+      border-collapse: collapse;
+  }
+
+.formid {
+    margin: 0 auto;
+}
+/* footer sections */
+footer {
+    margin-top: 20%;
+    background-color: #16753d;
+    text-align: center;
+    color: white;
+}
+
+.footerbox {
+    padding: 2%;
+    font-size: 0.6em;
+}
+
+/* header settings */
+header {
+    margin: 0 auto;
+    background-color: #efeae1;
+    width: 80%;
+}
+
+img {
+    width: 20%;
+}
+
+/* font settings */
+
+h1, h2 {
+   font-family:  'Fredoka One', Tahoma, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+color: #e84719;
+}
+
+.fel {
+    color: red;
+    font-weight: bold;
+}
+
+.button {
+    color: white;
+    background-color: #16753d;
+    font-family: 'Fredoka One', Tahoma, sans-serif;
+    padding: 2%;
+}
+
+#loggain {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#message {
+    padding: 2%;
+    color: #16753d;
+    font-weight: bold;
+}
